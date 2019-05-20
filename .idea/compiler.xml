@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.Elidor_Varosi.Wolf_Trade.Trade_Like_A_Pro.main" target="1.8" />
+      <module name="com.Elidor_Varosi.Wolf_Trade.Trade_Like_A_Pro.test" target="1.8" />
+      <module name="com.example.Elidor_Varosi.Trade_Like_A_Pro.main" target="1.8" />
+      <module name="com.example.Elidor_Varosi.Trade_Like_A_Pro.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

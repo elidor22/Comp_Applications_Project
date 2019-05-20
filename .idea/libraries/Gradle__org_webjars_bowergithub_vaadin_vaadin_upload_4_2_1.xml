@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.bowergithub.vaadin:vaadin-upload:4.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-upload/4.2.1/e55fcb7b1a3e097b08a3aaba91d899636dff8103/vaadin-upload-4.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-upload/4.2.1/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/vaadin-upload-4.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

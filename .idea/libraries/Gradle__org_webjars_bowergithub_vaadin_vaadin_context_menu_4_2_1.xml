@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.bowergithub.vaadin:vaadin-context-menu:4.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-context-menu/4.2.1/308cf1d461cb4f2c8e3de5131555db5285107175/vaadin-context-menu-4.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-context-menu/4.2.1/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/vaadin-context-menu-4.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.bowergithub.vaadin:vaadin-date-picker:3.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-date-picker/3.3.2/6cc0217d61ec9e0aad66e6069289f55ffd95ed2a/vaadin-date-picker-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-date-picker/3.3.2/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/vaadin-date-picker-3.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

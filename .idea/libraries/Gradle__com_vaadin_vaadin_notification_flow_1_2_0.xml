@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-notification-flow:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-notification-flow/1.2.0/955b75f244279305c73cc0ab6957ea2c427a8ddd/vaadin-notification-flow-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-notification-flow/1.2.0/4951d73f5b51a9cdb57bf8d2eb150ebeb70f20ae/vaadin-notification-flow-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.bowergithub.vaadin:vaadin-text-field:2.1.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-text-field/2.1.7/f825c1913ad11fa2fb3c484034b67d951e8d5d9e/vaadin-text-field-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bowergithub.vaadin/vaadin-text-field/2.1.7/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/vaadin-text-field-2.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

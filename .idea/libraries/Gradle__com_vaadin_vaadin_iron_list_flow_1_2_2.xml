@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-iron-list-flow:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-iron-list-flow/1.2.2/b420041bf79c10af161fd0ea3b4dc9121ce9dcf7/vaadin-iron-list-flow-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-iron-list-flow/1.2.2/5679741123c0bebbc8b5f84823105b98503f8233/vaadin-iron-list-flow-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

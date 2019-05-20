@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-progress-bar-flow:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-progress-bar-flow/1.2.0/d592faa1bc7fdd073f02e276b8617589e4c531f0/vaadin-progress-bar-flow-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-progress-bar-flow/1.2.0/3d02842812fc17a6c874c8b0a5955881b42abec2/vaadin-progress-bar-flow-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
