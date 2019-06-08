@@ -5,6 +5,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.font.TextAttribute;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Hashtable;
 
 import com.example.Elidor_Varosi.Trade_Like_A_Pro.Fixer_Data;
@@ -28,11 +30,8 @@ public class GUI extends JFrame{
     JLabel requestedLabel = new JLabel("Currency");
     JLabel label = new JLabel();
     JTextArea currencyStatus = new JTextArea();
-    ImageIcon icon = new ImageIcon("icons8-menu-200.png");
-    ImageIcon icon2 = new ImageIcon("C:\\Users\\Momentally\\Downloads\\Trade_Like_A_Pro\\src\\main\\java\\GUI_Package\\Refresh.png");
     ImageIcon icon3 = new ImageIcon("C:\\Users\\Momentally\\Desktop\\Trade_Like_A_Pro\\src\\main\\java\\GUI_Package\\icons8-save-close-100.png");
     ImageIcon frame_Icon = new ImageIcon("/home/elidor/Desktop/Trade_Like_A_Pro/src/main/java/GUI_Package/warren-buffett.jpg");
-    ImageIcon back = new ImageIcon("C:\\Users\\Momentally\\Desktop\\Trade_Like_A_Pro\\src\\main\\java\\GUI_Package\\back.png");
     JButton backbutton = new JButton();
     Font realfont = new Font(Font.SANS_SERIF, Font.PLAIN, 24);
     public static String thisString;//Needs to be static in order to get the value of to string from Fixer_Data
@@ -54,13 +53,13 @@ public class GUI extends JFrame{
     int i;
 
 
-    public GUI(){
+    public GUI() throws MalformedURLException {
     frame.add(panel);
     menu.setBounds(10,20,120,120);
     convert.setBounds(500,600,200,120);
-    convert.setIcon(icon2);
+    convert.setIcon(new ImageIcon(new URL("https://teamroboboogie.com/wp-content/uploads/2017/06/dataconvert_icon.png")));
     convert.setOpaque(true);
-    menu.setIcon(icon);
+    menu.setIcon(new ImageIcon(new URL("https://static.thenounproject.com/png/604152-200.png")));
     menu.setBackground(Color.lightGray);
     mainCurrency.setBounds(400,500,100,50);
     mainCurrency.setFont(realfont);
@@ -75,7 +74,7 @@ public class GUI extends JFrame{
     rateLabel.setBounds(500,450,100,50);
 
 
-   label.setIcon(frame_Icon);
+   label.setIcon(new ImageIcon(new URL("https://www.kiplinger.com/slideshow/investing/T052-S001-berkshire-hathaway-13f-warren-buffett-17-stocks/images/intro.jpg")));
    label.setBounds(0,0,1366,768);
    label.setOpaque(true);
     panel.add(menu);
@@ -112,7 +111,7 @@ public class GUI extends JFrame{
     }
 
 
-    public static void main(String args[]) throws NoSuchFieldException {
+    public static void main(String args[]) throws NoSuchFieldException, MalformedURLException {
         TradeLikeAProApplication.doit(args);
         //Fixer_Data data = new Fixer_Data();
         GUI GUI = new GUI();
@@ -123,7 +122,11 @@ public class GUI extends JFrame{
         menu.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                backbutton.setIcon(back);
+                try {
+                    backbutton.setIcon(new ImageIcon(new URL("https://cdn6.aptoide.com/imgs/f/b/8/fb8d3db2174b18850fadf9c882ee0682_icon.png?w=240")));
+                } catch (MalformedURLException ex) {
+                    ex.printStackTrace();
+                }
                 backbutton.setBounds(10,20,120,100);
                 panel2.add(note1);
                 panel2.add(note2);
